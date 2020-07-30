@@ -40,9 +40,8 @@ const Login = ({
 
   return (
     <div className="login">
-      <h1>Hi there!</h1>
       <h2>
-        {reset ? "Reset password" : newUser ? "Create an account" : "Sign in"}
+        {reset ? "Reset password" : newUser ? "Create an account" : "Sign in to play Tetris"}
       </h2>
       {authMsg && <p className="auth-message">{authMsg}</p>}
       <form onSubmit={handleSubmit} noValidate>

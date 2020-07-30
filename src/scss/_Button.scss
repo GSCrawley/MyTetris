@@ -24,13 +24,13 @@
       box-shadow: 0 10px 20px rgba($primary-color, 0.3);
     }
   }
-  .btn-switch {
-    @extend %btn;
-    @extend %btn-off;
-    &:hover {
-      @extend %btn-on;
-    }
-  }
+  // .btn-switch {
+  //   @extend %btn;
+  //   @extend %btn-off;
+  //   &:hover {
+  //     @extend %btn-on;
+  //   }
+  // }
   .btn-link {
     color: $primary-color;
     border: none;
