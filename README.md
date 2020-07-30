@@ -1,5 +1,7 @@
 #myTetris
 
+NOtE: I ran into some technical difficulty and had to delete my repo. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
