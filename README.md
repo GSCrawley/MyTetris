@@ -1,3 +1,8 @@
+gh-pages doesn't seem to want to support this for some reason. 
+possibly because I'm using Firebase?
+
+to run locally, goto http://localhost:3000 NOT http://localhost:3000/myTetris 
+
 #myTetris
 
 NOtE: I ran into some technical difficulty and had to delete my repo. 
