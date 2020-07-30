@@ -1,4 +1,8 @@
-/usr/local/bin/tsserver -> /usr/local/lib/node_modules/typescript/bin/tsserver
-/usr/local/bin/tsc -> /usr/local/lib/node_modules/typescript/bin/tsc
 + typescript@3.9.7
-added 1 package from 1 contributor in 1.71s
+added 1 package from 1 contributor and audited 1737 packages in 17.347s
+
+63 packages are looking for funding
+  run `npm fund` for details
+
+found 1 low severity vulnerability
+  run `npm audit fix` to fix them, or `npm audit` for details
