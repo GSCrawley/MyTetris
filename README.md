@@ -1,13 +1,13 @@
-gh-pages doesn't seem to want to support this for some reason. 
-possibly because I'm using Firebase?
- 
-to run locally, goto http://localhost:3000 NOT http://localhost:3000/myTetris 
-
-to exit game there is a logout button at the bottom of the game page (that is not responding to my style changes)
 
 #myTetris
 
-NOtE: I tried to change the root folder name from gidschat to myTetris, but it broke both the Firebase auth AND github (had to delete repo and start over)
+LIVE URL: https://tetris-auth.web.app
+ 
+to run locally, goto http://localhost:3000
+
+to exit game there is a logout button at the bottom of the game page (that is not responding to my style changes)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

@@ -7,15 +7,15 @@ import * as firebase from "firebase/app";
 import "firebase/auth";
 
 // Your app's Firebase configuration
-var firebaseConfig = {
-    apiKey: "AIzaSyA7zqzBrqugdBlkUwmlVyLdjfcgS8jTSjQ",
-    authDomain: "gidschat.firebaseapp.com",
-    databaseURL: "https://gidschat.firebaseio.com",
-    projectId: "gidschat",
-    storageBucket: "gidschat.appspot.com",
-    messagingSenderId: "814431407256",
-    appId: "1:814431407256:web:0f4c46f4281600a922d4ed",
-};
+const firebaseConfig = {
+    apiKey: "AIzaSyCMMVP02fm1S2JxaVfs-1zYQe5slqXQGWk",
+    authDomain: "tetris-auth.firebaseapp.com",
+    databaseURL: "https://tetris-auth.firebaseio.com",
+    projectId: "tetris-auth",
+    storageBucket: "tetris-auth.appspot.com",
+    messagingSenderId: "367047724762",
+    appId: "1:367047724762:web:804eee9d89464acfa65fe3",
+  };
 
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
