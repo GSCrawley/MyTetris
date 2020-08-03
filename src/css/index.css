@@ -79,7 +79,7 @@ a {
       color: red; }
   .login .login-footer {
     display: flex;
-    flex-direction: column;
+    flex-direction: row-reverse;
     align-items: center;
    }
 
