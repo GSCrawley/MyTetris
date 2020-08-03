@@ -15,18 +15,34 @@ a {
 
 .btn-login, .btn-switch {
   padding: 1em ;
-  /* margin-bottom: 2rem; */
+  margin-left: 8rem; 
   border-radius: 20px;
   font-weight: bold;
   border: none;
   outline: none;
-  border: 2px solid #29b1cc; }
+  border: 2px solid #29b1cc;
+  display: inline-flex;
+  align-items: center; }
   .btn-login:hover, .btn-switch:hover {
     cursor: pointer; }
 
 .btn-login, .btn-switch:hover {
   background-color: #29b1cc;
   color: #fff; }
+
+.btn-logout {
+  padding: 1em ;
+  border-radius: 20px;
+  font-weight: bold;
+  border: none;
+  outline: none;
+  border: 2px solid #29b1cc;
+  display: inline-flex;
+  align-items: center; }
+  .btn-logout:hover {
+    cursor: pointer; 
+    background-color: #29b1cc;
+    color: #fff; }
 
 .btn-switch {
   background-color: #fff;
@@ -79,13 +95,13 @@ a {
       color: red; }
   .login .login-footer {
     display: flex;
-    flex-direction: row;
+    flex-direction: row-reverse; 
     align-items: center;
    }
 
 .page {
   display: flex;
-  flex-direction: row-reverse;
+  /* flex-direction: row-reverse; */
   justify-content: center;
   align-items: center; }
   .page h1 {

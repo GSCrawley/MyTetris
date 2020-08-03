@@ -10,7 +10,7 @@ const Main = ({ signout }) => {
   return (
    <div className="page">
       <Game />
-      <button className="btn-switch" onClick={() => signout()}>
+      <button className="btn-logout" onClick={() => signout()}>
         Log Out
       </button> 
     </div>
