@@ -79,13 +79,13 @@ a {
       color: red; }
   .login .login-footer {
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: row;
     align-items: center;
    }
 
 .page {
   display: flex;
-  flex-direction: column;
+  flex-direction: row-reverse;
   justify-content: center;
   align-items: center; }
   .page h1 {
