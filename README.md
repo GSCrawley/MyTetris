@@ -5,10 +5,6 @@ LIVE URL: https://tetris-auth.web.app
  
 to run locally, goto http://localhost:3000
 
-to exit game there is a logout button at the bottom of the game page (that is not responding to my style changes)
-
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
